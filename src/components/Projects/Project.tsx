@@ -6,14 +6,13 @@ const Project = () => {
       </h1>
       <div className="w-full items-center justify-center flex">
         <a
-          href={""}
+          href={"https://github.com/deguzman20"}
           target="_blank"
           rel="noopener noreferrer"
           className="bg-black text-white py-2 px-4"
         >
           View GitHub Repo
         </a>
-        {/* </div> */}
       </div>
     </div>
   );
